@@ -1,7 +1,7 @@
 # Three-Tier-K8s-DevSecOps  
 
 ## Overview  
-This project demonstrates the deployment of a secure, scalable, and efficient three-tier architecture using Kubernetes on AWS EKS. The setup incorporates DevSecOps principles, leveraging various tools and technologies for CI/CD pipelines, monitoring, and code quality assurance.  
+This project demonstrates the deployment of a secure, scalable, and efficient three-tier architecture using Kubernetes on AWS EKS. The setup incorporates DevSecOps principles, leveraging various tools and technologies for CI/CD pipelines, monitoring, and code quality assurance.  I have used MacOS for the same.
 
 ### Key Features  
 - **Three-tier architecture**: Frontend (React), Backend (Django, Python), Database (PostgreSQL).  
