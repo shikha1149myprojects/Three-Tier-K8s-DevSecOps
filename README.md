@@ -154,9 +154,9 @@ This project demonstrates the deployment of a secure, scalable, and efficient th
 
 ### 15. ArgoCD Installation and Configuration
 - Install ArgoCD
-- Expose ArgoCD to a load balancer.
-- Connect Git Repository:
-- Configure ArgoCD to sync with a private Git repository.
+- Expose ArgoCD to a load balancer
+- Connect Git Repository
+- Configure ArgoCD to sync with a private Git repository
 
 ---
 
