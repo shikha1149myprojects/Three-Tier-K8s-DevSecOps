@@ -29,11 +29,13 @@ This project demonstrates the deployment of a secure, scalable, and efficient th
 - **Grafana**: Visualization and dashboards.  
 
 ### Infrastructure as Code  
-- **Terraform**: Automated infrastructure setup.  
+- **Terraform**: Automated infrastructure setup.
+- **Helm**: Simplifies Kubernetes application deployments, such as load balancer controllers and Prometheus/Grafana setup.  
 
 ### Development Tools  
 - **Git**: Version control.  
-- **SonarQube**: Code quality assurance and analysis.  
+- **SonarQube**: Code quality assurance and analysis.
+- **Trivy**: Security vulnerability scanning for container images.
 
 ---
 
