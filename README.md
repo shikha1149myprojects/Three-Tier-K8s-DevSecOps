@@ -44,8 +44,8 @@ This project demonstrates the deployment of a secure, scalable, and efficient th
 ### 1. IAM User Setup  
 - **User**: `KingOfPirates`.  
 - **Permissions**: `AdministratorAccess`.  
-- **Access Key**: `AKIA6GBMDIYKQ6GOJOH2`.  
-- **Secret Access Key**: `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`.  
+- **Access Key**: ``.  
+- **Secret Access Key**: ``.  
 
 ---
 
